@@ -1,0 +1,33 @@
+<annotation>
+    <folder>img_dir</folder>
+    <filename>alec-favale-Ivzo69e18nk-unsplash.jpg</filename>
+    <path>C:\Users\shant\Desktop\streamlit2\streamlit-img-label-main\img_dir\alec-favale-Ivzo69e18nk-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3652</width>
+        <height>5479</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>None</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>195</xmin>
+            <ymin>594</ymin>
+            <xmax>2254</xmax>
+            <ymax>3089</ymax>
+        </bndbox>
+    </object>
+</annotation>
+
+
+
+
+
+
+
